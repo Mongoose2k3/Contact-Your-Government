@@ -4,6 +4,23 @@
 2. Online Petitions
 3. Keep sending petitions and letters calling
 
+# Sample Letters
+1. [Sample letter to State Representative or Senator.txt](./Sample%20letter%20to%20State%20Representative%20or%20Senator.txt)
+
+# Vote NO for these bills
+1. H.R. 798
+2. H.R. 6126
+3. H.R. 3266
+4. H.R. 340
+5. H.R. 3774
+6. H.R. 599
+7. H.R. 894
+
+   
+ Please call your senator and ask them to reject the following bills.  They all for supporting Isreal and zionisum
+The general Senate's number is.
+202-224-3121
+Ask for your senator by name or state.
 
 <h2>Oregon Senators</h2>
 <ol>
