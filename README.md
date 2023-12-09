@@ -8,19 +8,28 @@
 1. [Sample letter to State Representative or Senator.txt](./Sample%20letter%20to%20State%20Representative%20or%20Senator.txt)
 
 # Vote NO for these bills
-1. H.R. 798
-2. H.R. 6126
-3. H.R. 3266
-4. H.R. 340
-5. H.R. 3774
-6. H.R. 599
-7. H.R. 894
-
-   
- Please call your senator and ask them to reject the following bills.  They all for supporting Isreal and zionisum
-The general Senate's number is.
+* Please call your senator and ask them to reject the following bills.  They all for supporting Isreal and zionism.
+* The general Senate's number is.
 202-224-3121
 Ask for your senator by name or state.
+
+1. **H.R. 798** Condemning the support of Hamas, Hezbollah, and other terrorist organiza-
+tions at institutions of higher education
+2. **H.R. 6126** 
+The Israel Security Supplemental Appropriations Act
+3. **H.R. 3266** 
+Peace and Tolerance in Palestinian Education Act
+4. **H.R. 340** 
+Hamas International Financing Prevention Act
+5. **H.R. 3774** To impose additional sanctions with respect to the importation or facilitation
+of the importation of petroleum products from Iran, and for other purposes
+6. **H.R. 599** 
+To designate the facility of the United States Postal Service located at 3500 West 6th Street, Suite 103 in Los Angeles, California, as the "Dosan Ahn Chang Ho Post Office"
+7. **H.R. 894** 
+Strongly condemning and denouncing the drastic rise of antisemitism in the United States and around the world
+
+   
+
 
 <h2>Oregon Senators</h2>
 <ol>
