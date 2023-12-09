@@ -28,8 +28,8 @@ To designate the facility of the United States Postal Service located at 3500 We
 7. **H.R. 894** 
 Strongly condemning and denouncing the drastic rise of antisemitism in the United States and around the world
 
-   
-
+   NOTE: it looks like there is no standarized parameterized URL via an H.R number, I cannot just replace the HR number using the follwoing URL template...
+https://www.congress.gov/bill/118th-congress/house-bill/340
 
 <h2>Oregon Senators</h2>
 <ol>
