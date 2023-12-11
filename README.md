@@ -14,6 +14,7 @@
 
 # Sample Letters
 1. [Sample letter to State Representative or Senator.txt](./Sample%20letter%20to%20State%20Representative%20or%20Senator.txt)
+2. [Sample Online Letter Post](./Sample%20Online%20Letter%20Post.txt)
 
 # Vote NO for these House Resolution bills
 * Please call your senator and ask them to reject the following bills.  They all for supporting Isreal and zionism.
