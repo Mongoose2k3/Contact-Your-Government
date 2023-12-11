@@ -4,6 +4,14 @@
 2. Online Petitions
 3. Keep sending petitions and letters calling
 
+# Search for State Senators
+1. https://www.google.com/search?client=firefox-b-1-d&q=oregon+senators
+2. https://www.google.com/search?client=firefox-b-1-d&q=california+senators
+3. https://www.google.com/search?client=firefox-b-1-d&q=iowa+senators
+4. https://www.google.com/search?client=firefox-b-1-d&q=washington+senators
+5. https://www.google.com/search?client=firefox-b-1-d&q=ohio+senators
+6. https://www.google.com/search?client=firefox-b-1-d&q=florida+senators
+
 # Sample Letters
 1. [Sample letter to State Representative or Senator.txt](./Sample%20letter%20to%20State%20Representative%20or%20Senator.txt)
 
