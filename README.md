@@ -87,6 +87,7 @@ https://www.congress.gov/bill/118th-congress/house-bill/340
 	
 ### OR-4 Val Hoyle
 1. https://hoyle.house.gov/contact/email-val
+2. OR04VH.Outreach@mail.house.gov
        
 ### OR-5 Lori Chavez-DeRemer
 1. https://chavez-deremer.house.gov/address_authentication?form=/contact
