@@ -60,6 +60,8 @@ https://www.congress.gov/bill/118th-congress/house-bill/340
 	https://www.wyden.senate.gov/contact/office-locations</a></li>
 	<li><a href="https://www.wyden.senate.gov/contact/email-ron">
 	https://www.wyden.senate.gov/contact/email-ron</a> (Email Online)</li>
+	<li> <a href="mailto:senator_wyden@wyden.senate.gov">
+	senator_wyden@wyden.senate.gov</a></li>
 </ol>
 <h3>Jeff Merkley</h3>
 <ol>
@@ -68,6 +70,8 @@ https://www.congress.gov/bill/118th-congress/house-bill/340
 	https://www.merkley.senate.gov/connect/office-locations/</a> </li>
 	<li><a href="https://www.merkley.senate.gov/connect/contact/">
 	https://www.merkley.senate.gov/connect/contact/</a> (Email Online)</li>
+	<li> <a href="mailto:Senator_Merkley@Merkley.senate.gov">
+	Senator_Merkley@Merkley.senate.gov</a></li>
 </ol>
 
 ## House Reps
